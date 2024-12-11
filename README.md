@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yusuf Kaisar
+👋 Hi, I’m @Yusuf Kaisar
 
 <!---
 YusufKaisar/YusufKaisar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
